@@ -1,15 +1,15 @@
 ---
-date: '2019-01-11'
-title: 'Hackernews'
+date: '2019-04-11'
+title: 'Authors heaven API'
 image: ''
-github: 'https://github.com/borenho/hackernews-clone'
+github: 'https://github.com/larryTheGeek/ah-the-answer-backend'
 external: ''
 tech:
-  - React JS
-  - GraphQL
-  - Apollo
-  - Prisma
+  - Python
+  - Django
+  - PostgresQl
+  - JWT
 show: 'true'
 ---
 
-A React Apollo user interface for Hackernews
+Create a community of like minded authors to foster inspiration and innovation by leveraging the modern web.

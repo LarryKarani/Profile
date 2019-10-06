@@ -1,16 +1,14 @@
 ---
 date: '2019-06-25'
-title: 'Portfolio'
+title: 'RideMyWay'
 image: ''
-github: 'https://github.com/borenho/portfolio'
+github: 'https://github.com/larryTheGeek/ride_my_way_v2'
 external: ''
 tech:
-  - Gatsby
-  - React
-  - AnimeJS
-  - Netlify
+  - Python
+  - FLASK
+  - JWT
 show: 'true'
 ---
 
-The website you're viewing right now! Forked and built from Brittany Chiang's
-portfolio website [here](https://github.com/bchiang7/v4). Thanks Brit! :)
+A car pooling application that enables users to create or join ride offers

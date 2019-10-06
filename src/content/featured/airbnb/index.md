@@ -1,16 +1,15 @@
 ---
 date: '2016-12-08'
-title: 'Airbnb'
-cover: 'airbnb.png'
-github: 'https://github.com/borenho/airbnb'
+title: 'iReporter'
+cover: 'Ireporter.png'
+github: 'https://github.com/larryTheGeek/IreporterReactJs'
 external: ''
 tech:
-  - Ruby
-  - Ruby on Rails
-  - Geolocation
-  - Search
+  - Python
+  - React
+  - Flask
+
 show: 'true'
 ---
 
-A clone of Airbnb that introduced me to project-based Ruby on Rails
-development
+iReporter enables citizens to bring any form of corruption to the notice of appropriate authorities and the general public. Users can also report on things that needs government intervention

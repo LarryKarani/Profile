@@ -2,10 +2,10 @@
 title: 'Get In Touch'
 ---
 
-I am currently open to new opportunities. I am more tilted towards backend
-engineering(designing and implementing APIs).
+I am currently open to new opportunities. I am more tilted towards frontend
+engineering(designing and implementing UIs).
 
-Preferred tech: Ruby, Ruby on Rails, Golang, GraphQL
+Preferred tech: Javascript, React, React native, Redux, Typescript
 
 I am also open to relocate.
 

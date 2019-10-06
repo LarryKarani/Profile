@@ -1,16 +1,14 @@
 ---
 date: '2016-12-15'
-title: 'Fiverr'
-cover: 'fiverr.png'
-github: 'https://github.com/borenho/fiverr'
+title: 'Ebookmanager'
+cover: 'books.jpg'
+github: 'https://github.com/larryTheGeek/EbookManager'
 external: ''
 tech:
   - Python
-  - Django
+  - Django Rest
   - Oauth
-  - Braintree
 show: 'true'
 ---
 
-A Fiverr marketplace clone I build early on in my engineering career - with the
-aim to learn Python and Django
+Ebookmanager is a platform that keeps a record of books available in a book shop.

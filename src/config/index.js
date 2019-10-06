@@ -1,39 +1,39 @@
 module.exports = {
-  siteTitle: 'Kaka Ruto | Software Engineer',
+  siteTitle: 'Larry Karani | Software Engineer',
   siteDescription:
-    'Collins Ruto is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available APIs in Ruby, Go and GraphQL.',
+    'Larry karani is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available software  in  React, React native, Javascript, Python, Flask and Django.',
   siteKeywords:
-    'Collins Ruto, Kaka Ruto, borenho, software engineer, software developer, backend engineer, ruby developer, Golang',
-  siteUrl: 'https://collinsruto.com',
-  blogUrl: 'https://blog.collinsruto.com',
+    'Larry, Karani, kubende, software engineer, software developer, backend engineer, React developer, React Native, Nairobi, Kenya',
+  siteUrl: 'https://larrykarani.com',
+  blogUrl: 'https://medium.com/@lovvete',
   siteLanguage: 'en_US',
 
   googleVerification: 'CHkeh5av_lDWs6zzQ8TpB4KDyQcmm7xxI4CYUKRGaM0',
 
-  name: 'Collins Ruto',
+  name: 'Larry Karani',
   location: 'Nairobi, Kenya',
-  email: 'borecollins@gmail.com',
-  github: 'https://github.com/borenho/',
+  email: 'karanilarry@gmail.com',
+  github: 'https://github.com/larrythegeek/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/borenho/',
+      url: 'https://github.com/larrythegeek/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/rutocollins/',
+      url: 'https://www.linkedin.com/in/larry-karani/',
     },
     {
       name: 'Stackoverflow',
-      url: 'https://stackoverflow.com/users/6488361/ruto-collins',
+      url: 'https://stackoverflow.com/users/8821979/larry',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/kaka_ruto_/',
+      url: 'https://www.instagram.com/larry_kubende/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/kaka_ruto',
+      url: 'https://twitter.com/larrykubende',
     },
   ],
 
