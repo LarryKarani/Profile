@@ -5,6 +5,7 @@ skills:
   - Javascript
   - React
   - React Native
+  - Wordpress
   - HTML & (S)CSS
   - Redux
   - Python
