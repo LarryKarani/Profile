@@ -1,9 +1,9 @@
 ---
 title: 'About Me'
-avatar: './Larry.jpg'
+avatar: './Larry.jpeg'
 skills:
-  - Javascript
   - React
+  - Typescript
   - React Native
   - Wordpress
   - HTML & (S)CSS
