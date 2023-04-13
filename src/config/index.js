@@ -5,7 +5,7 @@ module.exports = {
   siteKeywords:
     'Larry, Karani, kubende, software engineer, software developer, backend engineer, React developer, React Native, Nairobi, Kenya',
   siteUrl: 'https://larrykarani.com',
-  blogUrl: 'https://medium.com/@lovvete',
+  blogUrl: 'https://medium.com/@larrydev',
   siteLanguage: 'en_US',
 
   googleVerification: 'CHkeh5av_lDWs6zzQ8TpB4KDyQcmm7xxI4CYUKRGaM0',
@@ -56,9 +56,9 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@kaka_ruto',
-  googleAnalyticsID: 'UA-142576526-1',
-  googleTagManagerID: 'GTM-K44TV88',
+  twitterHandle: '@larrykubende',
+  googleAnalyticsID: 'G-VWVD1NPTFN',
+  googleTagManagerID: 'GTM-NMTR6BQ',
 
   navHeight: 100,
 
