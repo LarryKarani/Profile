@@ -8,8 +8,6 @@ module.exports = {
   blogUrl: 'https://medium.com/@larrydev',
   siteLanguage: 'en_US',
 
-  googleVerification: 'CHkeh5av_lDWs6zzQ8TpB4KDyQcmm7xxI4CYUKRGaM0',
-
   name: 'Larry Karani',
   location: 'Nairobi, Kenya',
   email: 'karanilarry@gmail.com',
